@@ -1,0 +1,15 @@
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment (if used)
+venv/
+.env
+
+# Baseline data files (optional: keep repo clean for fresh tests)
+baseline.json
+baseline.json.sig
+
+# System files
+.DS_Store
+Thumbs.db
